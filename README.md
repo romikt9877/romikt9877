@@ -1,4 +1,4 @@
-- 👋 Hi, I’m romikt9877
+- 👋 Hi, I’m romina katebi
 - 👀 I’m interested in physics
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
